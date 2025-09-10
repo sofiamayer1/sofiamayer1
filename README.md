@@ -34,4 +34,19 @@ I’m a multilingual (EN/ES, C1 French) sales professional with proven success i
 
 ## 🚀 Career Highlights
 - 📈 Generated **$500K+ pipeline** as SDR; **30% conversion rate**.  
-- 💼
+- 💼 Closed **$15K+ MRR** as AE with 90%+ renewal rate.  
+- 🏆 Promoted in **7 months** at Revolve + FWRD to **CS Lead**.  
+- 👥 Led a **team of 11**, improving retention by **20%**.  
+- 🤝 Managed **250+ high-value accounts**, increasing AOV **15%**.  
+- 🌍 Multilingual: English, Spanish, French (C1).  
+
+---
+
+## 📫 Connect
+- **LinkedIn:** [linkedin.com/in/sofiamayer10](https://www.linkedin.com/in/sofiamayer10/)  
+- **GitHub:** [github.com/sofiamayer1](https://github.com/sofiamayer1)  
+- **Email:** sofmayer@gmail.com  
+
+---
+
+⚡ *Open to SDR / BDR opportunities in SaaS and e-commerce where I can drive top-of-funnel growth and pipeline success.*
