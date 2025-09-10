@@ -1,25 +1,37 @@
-👋 Hi there! I'm Sofia, currently serving as a Senior Sales Representative at Revolve. I bring a wealth of experience in fashion sales, specializing in understanding customer needs and driving strategic initiatives to boost revenue. My journey spans from optimizing CRM systems to exploring the intersection of AI and UX/UI design. Let's connect and explore how we can innovate and elevate customer experiences together!
+# Sofia Mayer — SDR / Customer Success Portfolio
 
+Welcome to my sales development & customer success portfolio!  
+This repository highlights my career progression from **SDR → Associate AE → Senior CS Rep → CS Lead**, with key achievements, metrics, and resources I use to continue growing as a sales professional.
 
+---
 
-## About Me
-- 📈 **Sales Aficionado**: Passionate about driving sales through innovative strategies and understanding consumer behavior.
-- 💻 **Tech Lover**: Always exploring the latest in tech and how it can be integrated into the fashion and retail industry.
-- 🌍 **Cultural Explorer**: Fascinated by different cultures and their influence on fashion and lifestyle.
-- 👗 **Fashion Enthusiast**: I work in the fashion industry, focusing on trend analysis, styling, and sustainable fashion.
-- 🌱 **Lifelong Learner**: Currently learning about digital marketing and e-commerce platforms to enhance my sales skills.
-- 🧩 **Problem Solver**: Enjoy finding creative solutions to complex problems.
-- ⚡ **Fun Fact**: I’m exploring how technology can make fashion more inclusive, sustainable, and globally accessible.
+## 📌 About Me
+I’m a multilingual (EN/ES, C1 French) sales professional with proven success in **pipeline generation, account management, and customer advocacy**.  
+- Built **$500K+ pipeline** as an SDR with a **30% meeting-to-opportunity conversion rate**.  
+- Closed **$15K+ MRR** as an Associate AE, achieving **90%+ renewal rates** across 50+ accounts.  
+- Promoted in **7 months** at Revolve + FWRD to **Customer Success Lead**, managing a **team of 11 reps** and a portfolio of **250+ high-value accounts**.  
+- Drove **+20% retention**, **+15% AOV**, with **95% SLA resolution** and **98%+ CSAT**.  
 
+---
 
+## 📂 Repository Contents
+- **resume/** — My latest resume (Markdown + plain text).  
+- **docs/** — Interview prep, STAR stories, job search strategy, LinkedIn copy.  
+- **templates/** — Cover letter and outreach DM templates.  
+- **assets/** — Space for future PDFs, visuals, or media samples.  
+- **LICENSE** — MIT License.  
+- **.gitignore** — Standard ignores for clean repos.  
 
-- ## My Skills
-- **Strengths:** Brand Storytelling, Campaign Development, Cold Calling, Vendor Negotiations, Pipeline Management, Salesforce Reports, Prospecting, Outreaching, A/B Testing
-- **Applications:** Adobe Creative Suite, Adobe Premiere Pro, Outreach, Salesforce, LinkedIn Sales Navigator, Qualified, ZoomInfo, 6Sense, HubSpot, HighSpot, Figma
-- **Languages:** English, Spanish, and French
+---
 
+## 🛠️ Skills & Tools
+- **Sales Development:** Cold Calling, Outbound Prospecting, Lead Qualification, Pipeline Management  
+- **Customer Success:** Retention, Escalation Handling, Team Leadership, Account Management  
+- **Tech Stack:** Salesforce, HubSpot, Outreach, ZoomInfo, 6Sense, LinkedIn Sales Navigator, HighSpot  
+- **Languages:** English (Fluent), Spanish (Fluent), French (C1)  
 
+---
 
-- ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sofiamayer10/)
-- [Email](sofmayer@gmail.com)
+## 🚀 Career Highlights
+- 📈 Generated **$500K+ pipeline** as SDR; **30% conversion rate**.  
+- 💼
